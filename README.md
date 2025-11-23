@@ -1,4 +1,4 @@
-# Oiii! Eu sou a Luiza 👋  
+# Oiii! Eu sou a Luiza Miller👋  
 ### Product Owner | Análise de Dados | Estudante de ADS | Explorando GenAI 💡🤖
 
 Atuei como **Product Owner**, unindo visão estratégica, experiência em produtos digitais e análise de dados para criar soluções com foco no usuário.  
@@ -46,8 +46,8 @@ Atualmente estudo **Análise e Desenvolvimento de Sistemas**, com foco especial 
 
 ## 🌐 Onde me encontrar:
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiza-miller)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](lmiler.luiza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-miller)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmiler.luiza@gmail.com)
 
 ---
 
