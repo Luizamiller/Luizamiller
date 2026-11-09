@@ -1,6 +1,6 @@
 # Oi! Eu sou a Luiza Miller 👋
 
-### Farmacêutica · Mestra em Ciências · Ex-Product Owner · Estudante de ADS · Construindo com IA Generativa
+### Farmacêutica · Mestra em Ciências · Product Owner · Estudante de ADS · Construindo com IA Generativa
 
 Sou **farmacêutica** e **mestra em Bioquímica e Bioprospecção (UFPel)**, com experiência em farmácia hospitalar, pesquisa e dados aplicados à saúde.
 Atuei como **Product Owner** em um produto digital de conteúdo, onde aprendi a transformar necessidades de usuários em backlog, entregas e métricas.
