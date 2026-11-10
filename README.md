@@ -13,7 +13,9 @@ Hoje curso **Análise e Desenvolvimento de Sistemas** e construo projetos que un
 | Projeto | O que faz | Stack |
 |---|---|---|
 | 🔍 [**Análise de Restaurantes do iFood**](https://github.com/Luizamiller/analise-restaurantes-ifood) | Limpeza e análise exploratória de ~400 mil restaurantes (dados públicos de 2020–2021). Mostra que 44% não exibem nota, que a categoria pesa mais que o tempo de entrega e como a base cresceu 12% em 3 meses. | Python · pandas · Matplotlib · Jupyter |
-| 🎙️ **Às Sábias Reflexões + IA** *(em construção)* | Automação que transforma episódios de podcast em conteúdo (transcrição + resumo com LLM) e um agente para perguntar ao acervo. | n8n · Whisper · Claude |
+| 🎙️ [**Às Sábias Reflexões + IA**](https://github.com/Luizamiller/sabias-reflexoes-ia) *(em construção)* | Automação que transforma episódios de podcast em conteúdo (transcrição + resumo com LLM) e um agente para perguntar ao acervo. | n8n · Whisper · Claude |
+| 💊 [**Fale com o Farmacêutico**](https://github.com/Luizamiller/fale-com-farmaceutico) | Conceito + protótipo de um canal para o cliente tirar dúvidas com o farmacêutico da loja dentro do app de delivery. GenAI apoiando o profissional (resumo da triagem, checagem de interações, respostas sugeridas com *human-in-the-loop*), com LGPD e normas do CFF consideradas. | Produto/UX · HTML · CSS · JavaScript |
+| 🛍️ [**Sacola Multi-loja**](https://github.com/Luizamiller/sacola-multiloja) | Estudo de produto + protótipo navegável de uma sacola com itens de até 4 lojas, entrega combinada para lojas próximas e pratos favoritos. Inclui regras de negócio, métricas e uma camada de IA como próximo passo. | Produto/UX · HTML · CSS · JavaScript |
 
 ---
 
