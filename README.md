@@ -32,7 +32,18 @@ Hoje curso **Análise e Desenvolvimento de Sistemas** e construo projetos que un
   <img alt="Trello" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </p>
 
-**Também:** LLMs e engenharia de prompt · automações com n8n · gestão de produto e backlog (Scrum)
+**IA e automação**
+
+<p>
+  <a href="https://github.com/Luizamiller/sabias-reflexoes-ia"><img alt="Claude API" src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"></a>
+  <a href="https://github.com/Luizamiller/sabias-reflexoes-ia/tree/main/workflows"><img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"></a>
+  <a href="https://github.com/Luizamiller/sabias-reflexoes-ia/tree/main/agente-acervo"><img alt="RAG" src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge"></a>
+  <a href="https://github.com/Luizamiller/sabias-reflexoes-ia/blob/main/agente-acervo/avaliar.py"><img alt="LLM evals" src="https://img.shields.io/badge/LLM_evals-4B5563?style=for-the-badge"></a>
+  <a href="https://github.com/Luizamiller/sabias-reflexoes-ia/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+</p>
+
+**Também:** engenharia de prompt · saídas estruturadas (JSON) com validação · gestão de produto e backlog (Scrum)
 
 ---
 
