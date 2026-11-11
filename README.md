@@ -14,8 +14,8 @@ Hoje curso **Análise e Desenvolvimento de Sistemas** e construo projetos que un
 |---|---|---|
 | 🔍 [**Análise de Restaurantes do iFood**](https://github.com/Luizamiller/analise-restaurantes-ifood) | Limpeza e análise exploratória de ~400 mil restaurantes (dados públicos de 2020–2021). Mostra que 44% não exibem nota, que a categoria pesa mais que o tempo de entrega e como a base cresceu 12% em 3 meses. | Python · pandas · Matplotlib · Jupyter |
 | 🎙️ [**Às Sábias Reflexões + IA**](https://github.com/Luizamiller/sabias-reflexoes-ia) *(em construção)* | Automação que transforma episódios de podcast em conteúdo (transcrição + resumo com LLM) e um agente para perguntar ao acervo. | n8n · Whisper · Claude |
-| 💊 [**Fale com o Farmacêutico**](https://github.com/Luizamiller/fale-com-farmaceutico) | Conceito + protótipo de um canal para o cliente tirar dúvidas com o farmacêutico da loja dentro do app de delivery. GenAI apoiando o profissional (resumo da triagem, checagem de interações, respostas sugeridas com *human-in-the-loop*), com LGPD e normas do CFF consideradas. | Produto/UX · HTML · CSS · JavaScript |
-| 🛍️ [**Sacola Multi-loja**](https://github.com/Luizamiller/sacola-multiloja) | Estudo de produto + protótipo navegável de uma sacola com itens de até 4 lojas, entrega combinada para lojas próximas e pratos favoritos. Inclui regras de negócio, métricas e uma camada de IA como próximo passo. | Produto/UX · HTML · CSS · JavaScript |
+| 💊 [**Fale com o Farmacêutico**](https://github.com/Luizamiller/fale-com-farmaceutico) | Conceito + protótipo de um canal para o cliente tirar dúvidas com o farmacêutico da loja dentro do app de delivery. GenAI apoiando o profissional (resumo da triagem, checagem de interações, respostas sugeridas com *human-in-the-loop*), com LGPD e normas do CFF consideradas. | Produto/UX · HTML · CSS · JavaScript · [▶️ demo](https://luizamiller.github.io/fale-com-farmaceutico/) |
+| 🛍️ [**Sacola Multi-loja**](https://github.com/Luizamiller/sacola-multiloja) | Estudo de produto + protótipo navegável de uma sacola com itens de até 4 lojas, entrega combinada para lojas próximas e pratos favoritos. Inclui regras de negócio, métricas e uma camada de IA como próximo passo. | Produto/UX · HTML · CSS · JavaScript · [▶️ demo](https://luizamiller.github.io/sacola-multiloja/) |
 
 ---
 
@@ -40,7 +40,7 @@ Hoje curso **Análise e Desenvolvimento de Sistemas** e construo projetos que un
   <a href="https://github.com/Luizamiller/sabias-reflexoes-ia/tree/main/agente-acervo"><img alt="RAG" src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge"></a>
   <a href="https://github.com/Luizamiller/sabias-reflexoes-ia/blob/main/agente-acervo/avaliar.py"><img alt="LLM evals" src="https://img.shields.io/badge/LLM_evals-4B5563?style=for-the-badge"></a>
   <a href="https://github.com/Luizamiller/sabias-reflexoes-ia/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+  <a href="https://luizamiller.github.io/sacola-multiloja/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </p>
 
 **Também:** engenharia de prompt · saídas estruturadas (JSON) com validação · gestão de produto e backlog (Scrum)
