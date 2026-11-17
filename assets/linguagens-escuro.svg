@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="206" viewBox="0 0 600 206" role="img" aria-label="Linguagens mais usadas" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+  <rect x=".5" y=".5" width="599" height="205" rx="16" fill="#0E1116" stroke="#232A33"/>
+  <text x="32" y="44" font-size="13" letter-spacing="2" fill="#9AA4AF">LINGUAGENS MAIS USADAS</text>
+  <text x="568" y="44" font-size="12" fill="#9AA4AF" text-anchor="end">por linhas de código</text>
+  <clipPath id="c"><rect x="32" y="78" width="536" height="10" rx="5"/></clipPath>
+  <rect x="32" y="78" width="536" height="10" rx="5" fill="#1C232B"/>
+  <g clip-path="url(#c)"><rect x="32.00" y="78" width="267.83" height="10" fill="#3178C6"/><rect x="301.83" y="78" width="248.45" height="10" fill="#E8B23A"/><rect x="552.27" y="78" width="11.52" height="10" fill="#663399"/><rect x="565.80" y="78" width="1.00" height="10" fill="#E34C26"/></g>
+  <circle cx="37" cy="119" r="5" fill="#3178C6"/><text x="50" y="124" font-size="14" fill="#F2EEE8">TypeScript</text><text x="282" y="124" font-size="14" fill="#9AA4AF" text-anchor="end">50.3%</text><circle cx="309" cy="119" r="5" fill="#E8B23A"/><text x="322" y="124" font-size="14" fill="#F2EEE8">Python</text><text x="554" y="124" font-size="14" fill="#9AA4AF" text-anchor="end">46.7%</text><circle cx="37" cy="149" r="5" fill="#663399"/><text x="50" y="154" font-size="14" fill="#F2EEE8">CSS</text><text x="282" y="154" font-size="14" fill="#9AA4AF" text-anchor="end">2.5%</text><circle cx="309" cy="149" r="5" fill="#E34C26"/><text x="322" y="154" font-size="14" fill="#F2EEE8">HTML</text><text x="554" y="154" font-size="14" fill="#9AA4AF" text-anchor="end">0.4%</text>
+  <text x="32" y="188" font-size="12" fill="#9AA4AF">+ 2 notebooks Jupyter de análise, contados à parte</text>
+</svg>

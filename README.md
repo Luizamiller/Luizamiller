@@ -1,13 +1,21 @@
-# Luiza Miller
+<div align="center">
 
-**Farmacêutica · Mestra em Ciências · Estudante de Análise e Desenvolvimento de Sistemas · AI Builder**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg">
+  <img src="assets/banner-claro.svg" alt="Luiza Miller — Farmacêutica, Mestra em Ciências, AI Builder" width="100%">
+</picture>
+
+<br>
+
+<a href="mailto:lmiller.luiza@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="E-mail"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/luiza-miller" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://github.com/Luizamiller" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub"></a>
+
+</div>
+
+<br>
 
 Sou farmacêutica e mestra em Bioquímica e Bioprospecção (UFPel), com experiência em farmácia hospitalar, pesquisa em IA aplicada à saúde e gestão de produto como Product Owner. Construo aplicações completas que unem **dados, produto e IA generativa**: do problema do usuário às regras de negócio, ao código testado e à demonstração no ar.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-miller)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmiller.luiza@gmail.com)
-
----
 
 ## Projetos
 
@@ -60,29 +68,75 @@ Análise de 406 mil restaurantes do iFood (dados públicos). 44% aparecem com no
 
 ---
 
-## O que uso
+## Em números
 
-**IA generativa e automação:** engenharia de prompt, saída estruturada (JSON), RAG com citação verificada, agentes com validação determinística, avaliação de respostas, humano no circuito · Claude, ChatGPT, Gemini, Whisper · n8n, Make, Zapier
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Desenvolvimento:** Python (FastAPI, SQLAlchemy, Alembic, pytest) · React, TypeScript, Tailwind CSS, Vite · SQLite, PostgreSQL, DuckDB · Docker · Playwright · Git, GitHub Actions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/linguagens-escuro.svg">
+  <img src="assets/linguagens-claro.svg" alt="Linguagens mais usadas, por linhas de código" width="100%">
+</picture>
 
-**Dados:** pandas, NumPy, scikit-learn, Jupyter · bioinformática (PyDESeq2, lifelines, WGCNA)
+</td>
+<td width="50%" valign="top">
 
-**Produto:** Scrum, Kanban, backlog e priorização por valor, métricas e KPIs, design de interface · LGPD e privacidade desde o desenho
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/numeros-escuro.svg">
+  <img src="assets/numeros-claro.svg" alt="Projetos, linhas de código, testes e demonstrações" width="100%">
+</picture>
 
-<p>
-  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
-  <img alt="FastAPI" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
-  <img alt="Tailwind CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
-  <img alt="pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">&nbsp;
-  <img alt="scikit-learn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">&nbsp;
-  <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;
-  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
-  <img alt="Jupyter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">&nbsp;
-  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</td>
+</tr>
+</table>
+
+<sub>Calculado a partir do código dos repositórios públicos por um GitHub Action que roda todo dia (<a href="scripts/estatisticas.py">script</a>). Notebooks Jupyter ficam fora da porcentagem, porque as saídas salvas inflariam a conta.</sub>
+
+---
+
+## Tecnologias
+
+<sub>Clique em um ícone para abrir o site da tecnologia.</sub>
+
+<p><b>IA generativa e automação</b><br>
+<a href="https://www.anthropic.com/claude" title="Claude"><img src="assets/icones/claude.svg" width="44" height="44" alt="Claude"></a>&nbsp;
+<a href="https://n8n.io" title="n8n"><img src="assets/icones/n8n.svg" width="44" height="44" alt="n8n"></a>&nbsp;
+<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python"></a>
 </p>
+
+<p><b>Desenvolvimento</b><br>
+<a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="44" height="44" alt="FastAPI"></a>&nbsp;
+<a href="https://www.sqlalchemy.org" title="SQLAlchemy"><img src="assets/icones/sqlalchemy.svg" width="44" height="44" alt="SQLAlchemy"></a>&nbsp;
+<a href="https://docs.pytest.org" title="pytest"><img src="assets/icones/pytest.svg" width="44" height="44" alt="pytest"></a>&nbsp;
+<a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React"></a>&nbsp;
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript"></a>&nbsp;
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS"></a>&nbsp;
+<a href="https://vite.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="44" height="44" alt="Vite"></a>&nbsp;
+<a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" width="44" height="44" alt="SQLite"></a>&nbsp;
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL"></a>&nbsp;
+<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker"></a>&nbsp;
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions"></a>&nbsp;
+<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git"></a>&nbsp;
+<a href="https://github.com/Luizamiller" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub"></a>
+</p>
+
+<p><b>Dados</b><br>
+<a href="https://pandas.pydata.org" title="pandas"><img src="assets/icones/pandas.svg" width="44" height="44" alt="pandas"></a>&nbsp;
+<a href="https://numpy.org" title="NumPy"><img src="assets/icones/numpy.svg" width="44" height="44" alt="NumPy"></a>&nbsp;
+<a href="https://scikit-learn.org" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" width="44" height="44" alt="scikit-learn"></a>&nbsp;
+<a href="https://duckdb.org" title="DuckDB"><img src="assets/icones/duckdb.svg" width="44" height="44" alt="DuckDB"></a>&nbsp;
+<a href="https://jupyter.org" title="Jupyter"><img src="assets/icones/jupyter.svg" width="44" height="44" alt="Jupyter"></a>
+</p>
+
+<p><b>Produto e ferramentas</b><br>
+<a href="https://www.notion.so" title="Notion"><img src="https://skillicons.dev/icons?i=notion" width="44" height="44" alt="Notion"></a>&nbsp;
+<a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code"></a>&nbsp;
+<a href="https://astro.build" title="Astro"><img src="https://skillicons.dev/icons?i=astro" width="44" height="44" alt="Astro"></a>&nbsp;
+<a href="https://www.cloudflare.com" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" width="44" height="44" alt="Cloudflare"></a>
+</p>
+
+**Também:** engenharia de prompt, saída estruturada (JSON), RAG com citação verificada, agentes com validação determinística, avaliação de respostas e humano no circuito · ChatGPT, Gemini, Whisper, Make, Zapier · Playwright, Alembic · bioinformática (PyDESeq2, lifelines, WGCNA) · Scrum, Kanban, métricas e KPIs, design de interface · LGPD e privacidade desde o desenho
 
 ---
 

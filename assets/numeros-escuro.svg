@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="206" viewBox="0 0 600 206" role="img" aria-label="Números do GitHub" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+  <rect x=".5" y=".5" width="599" height="205" rx="16" fill="#0E1116" stroke="#232A33"/>
+  <text x="32" y="44" font-size="13" letter-spacing="2" fill="#9AA4AF">EM NÚMEROS</text>
+  <rect x="32" y="56" width="28" height="3" rx="1.5" fill="#4FB3A0"/>
+  <text x="32" y="104" font-size="32" font-family="Georgia, serif" fill="#F2EEE8">5</text><text x="32" y="125" font-size="13.5" fill="#9AA4AF">projetos públicos</text><text x="304" y="104" font-size="32" font-family="Georgia, serif" fill="#F2EEE8">16.293</text><text x="304" y="125" font-size="13.5" fill="#9AA4AF">linhas de código</text><text x="32" y="160" font-size="32" font-family="Georgia, serif" fill="#F2EEE8">137</text><text x="32" y="181" font-size="13.5" fill="#9AA4AF">testes automatizados</text><text x="304" y="160" font-size="32" font-family="Georgia, serif" fill="#F2EEE8">4</text><text x="304" y="181" font-size="13.5" fill="#9AA4AF">demonstrações online</text>
+</svg>
